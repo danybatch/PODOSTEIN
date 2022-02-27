@@ -296,18 +296,7 @@ a:hover {
 }
 
 
-.images2  {
-  display: flex;  
-  justify-content: space-evenly;
-  font-size: 20px;
-  text-align: center ;
-}
-.images3  {
-  display: flex;  
-  justify-content: space-evenly;
-  font-size: 20px;
-  text-align: center ;
-}
+
 
 .arrondie {
   border:2px solid black;
